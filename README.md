@@ -43,7 +43,7 @@ This project provides an **automatic distance-based warning system** that detect
 14. When the distance is **more than 50 cm**, the Green LED indicates a safe condition.  
 15. When the distance is between **31–50 cm**, the Yellow LED and buzzer provide a warning.  
 16. When the distance is **30 cm or less**, the Red LED and buzzer are activated and the SG90 servo rotates to **90°** to activate the safety barrier.
-
+### **CIRCUIT**
 ![](CIRCUIT.png)
 
 ### **RESULT**
